@@ -1,5 +1,6 @@
-### Hi There 👋
-### Selamat datang di GitHub Saya
+<h2 align="center">Hi There 👋</h2>
+<h2 align="center">Selamat datang di GitHub Saya</h2>
+
 perkenalkan nama saya **Tengku Surya Al-Furqan**.
 
 Saya seorang **Mahasiswa Teknik Informatika** di [UIN Maulana Malik Ibrahim Malang](https://uin-malang.ac.id/).
@@ -12,15 +13,14 @@ saya juga merupakan lulusan dari program [Bangkit Academy](https://grow.google/i
 
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/tengku-surya-701619209/)ku ya.
 
-<p align="left">
+<p align="center">
 <a href="https://github.com/suryun-ni">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=suryun-ni&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=suryun-ni&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-
-### 💬 Connect with me  
-<p align="left">
+<h2 align="center">💬 Connect with me<h2>  
+<p align="center">
 <a href="tengkusurya29@gmail.com">
   <img height="100em" src="https://img.icons8.com/color/344/gmail--v1.png"/>
 </a>
