@@ -21,7 +21,7 @@ Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](http
 </p>
 <h2 align="center">💬 Connect with me<h2>  
 <p align="center">
-<a href="tengkusurya29@gmail.com">
+<a href="mailto:tengksurya29@gmail.com">
   <img height="100em" src="https://img.icons8.com/color/344/gmail--v1.png"/>
 </a>
   <a href="https://www.linkedin.com/in/tengku-surya-701619209/">
