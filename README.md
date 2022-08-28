@@ -27,9 +27,11 @@ Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](http
   <a href="https://www.linkedin.com/in/tengku-surya-701619209/">
   <img height="100em" src="https://img.icons8.com/color/344/linkedin-circled--v1.png"/>
 </a>
-  </a>
   <a href="https://www.youtube.com/channel/UC58s2bMjhAXSZMTWMInguSQ">
   <img height="100em" src="https://img.icons8.com/color/344/youtube-play.png"/>
+</a>
+  <a href="https://www.instagram.com/baputengko/">
+  <img height="100em" src="https://img.icons8.com/color/344/instagram-new--v1.png"/>
 </a>
 </p>
 
