@@ -28,6 +28,8 @@ Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](http
   <img height="100em" src="https://img.icons8.com/color/344/linkedin-circled--v1.png"/>
 </a>
 </p>
+
+<--
 **suryun-ni/suryun-ni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
