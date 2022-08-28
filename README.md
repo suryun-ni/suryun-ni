@@ -19,8 +19,15 @@ Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](http
 </a>
 </p>
 
-### 💬 Connect with me  ...
-<!--
+### 💬 Connect with me  
+<p align="left">
+<a href="tengkusurya29@gmail.com">
+  <img height="100em" src="https://img.icons8.com/color/344/gmail--v1.png"/>
+</a>
+  <a href="https://www.linkedin.com/in/tengku-surya-701619209/">
+  <img height="100em" src="https://img.icons8.com/color/344/linkedin-circled--v1.png"/>
+</a>
+</p>
 **suryun-ni/suryun-ni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
