@@ -27,9 +27,13 @@ Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](http
   <a href="https://www.linkedin.com/in/tengku-surya-701619209/">
   <img height="100em" src="https://img.icons8.com/color/344/linkedin-circled--v1.png"/>
 </a>
+  </a>
+  <a href="https://www.youtube.com/channel/UC58s2bMjhAXSZMTWMInguSQ">
+  <img height="100em" src="https://img.icons8.com/color/344/youtube-play.png"/>
+</a>
 </p>
 
-<-- **suryun-ni/suryun-ni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- **suryun-ni/suryun-ni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -41,4 +45,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--!>
