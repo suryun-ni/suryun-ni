@@ -11,6 +11,15 @@ Saya juga memiliki keahlian di bidang cloud computing dengan mengikuti berbagai 
 saya juga merupakan lulusan dari program [Bangkit Academy](https://grow.google/intl/id_id/bangkit/) sebagai [cloud computing student](https://drive.google.com/file/d/1M0UcIT2KfUybtm4gtIaUgrVW4rcAH2GQ/view?usp=sharing) 
 
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/tengku-surya-701619209/)ku ya.
+
+<p align="left">
+<a href="https://github.com/suryun-ni">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=suryun-ni&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=suryun-ni&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
+### 💬 Connect with me  ...
 <!--
 **suryun-ni/suryun-ni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
